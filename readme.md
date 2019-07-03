@@ -1,5 +1,7 @@
 java attach api + instrument: 动态替换或修改JVM中的类，动态添加classpath
 
+参考：<https://www.ibm.com/developerworks/cn/java/j-lo-jse61/index.html>
+
 1. mkdir target
 
 2. TransClass.java: 返回1
